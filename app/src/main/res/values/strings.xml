@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab3 Prez7</string>
+
+    <string-array name="planety">
+        <item>Merkury</item>
+        <item>Wenus</item>
+        <item>Ziemia</item>
+        <item>Mars</item>
+        <item>Jowisz</item>
+        <item>Saturn</item>
+        <item>Uran</item>
+        <item>Neptun</item>
+    </string-array>
+
+</resources>
